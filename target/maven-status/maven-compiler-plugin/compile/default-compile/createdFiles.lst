@@ -1,0 +1,5 @@
+com/roentgen/chat/config/WebSocketConfiguration.class
+com/roentgen/chat/model/Chat.class
+com/roentgen/chat/ChatApplication.class
+com/roentgen/chat/model/Chat$MessageType.class
+com/roentgen/chat/controller/ChatAppController.class
